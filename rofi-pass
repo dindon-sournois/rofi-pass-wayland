@@ -48,31 +48,31 @@ auto_enter='false'
 notify='false'
 
 # default shortcuts
-help="Alt+h"
+help="Alt+Meta+h"
 
-kb_type_field="Alt+t"
-kb_type_pass="Alt+p"
-kb_type_user="Alt+n"
-kb_type_otp="Alt+o"
-kb_autotype="Alt+a"
+kb_type_field="Alt+Meta+t"
+kb_type_pass="Alt+Meta+p"
+kb_type_user="Alt+Meta+u"
+kb_type_otp="Alt+Meta+o"
+kb_autotype="Alt+Meta+a"
 
-kb_copy_field="Alt+C"
-kb_copy_pass="Alt+P"
-kb_copy_user="Alt+N"
-kb_copy_otp="Alt+O"
+kb_copy_field="Alt+Meta+C"
+kb_copy_pass="Alt+Meta+P"
+kb_copy_user="Alt+Meta+U"
+kb_copy_otp="Alt+Meta+O"
 
-kb_insert="Alt+i"
-kb_show="Alt+Return"
+kb_insert="Alt+Meta+i"
+kb_show="Alt+Meta+Return"
 
 # Actions
-kb_move="Alt+m"
-kb_remove="Alt+x"
-kb_edit="Alt+e"
-kb_generate="Alt+I"
+kb_move="Alt+Meta+m"
+kb_remove="Alt+Meta+x"
+kb_edit="Alt+Meta+e"
+kb_generate="Alt+Meta+I"
 
-kb_browse_url="Alt+U"
-kb_qrcode="Alt+q"
-kb_switch_root="Alt+bracketright" # ]
+kb_browse_url="Alt+Meta+n"
+kb_qrcode="Alt+Meta+q"
+kb_switch_root="Alt+Meta+bracketright" # ]
 
 # --- Customisable functions ---
 
